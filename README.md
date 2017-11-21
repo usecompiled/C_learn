@@ -1,3 +1,3 @@
 # Learn
 
-## learn java at moooc_net
+## learn java at mooc_net
